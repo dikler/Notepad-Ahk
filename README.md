@@ -13,7 +13,7 @@ El enfoque de escalabilidad bajo el **Protocolo @UX**, en una aplicacion "amigab
 
 El beneficio directo, es un gran ahorro en tiempo de depuracion y una mejor experiencia al compilar codigo (**AutoHotkey**). Esto tambien es extendible y seleccionable desde la barra de iconos para rutinas especificas(**AHK/v1/v2**). 
 
-## 🚀 Características Brutales
+## 🚀 Características
 
 * **Depuración integrada(AHK):** La depuracion muestra los errores (`ErrorStdOut`) directamente en el panel de consola (NppExec), justo al lado de la ventana de resultados, sin ventanas emergentes.
 * **Deteccion relacional (@UX):** La deteccion de los errores es estilo relacional con "ligas" (hipervínculos) de texto seleccionables (doble clic/toque) en la consola, para ir al error especifico. 
@@ -22,10 +22,14 @@ El beneficio directo, es un gran ahorro en tiempo de depuracion y una mejor expe
 <img width="1200" height="955" alt="Ahk_Notepad_Holux(Ux)_Compilar_01" src="https://github.com/user-attachments/assets/2c614990-eb51-4e3d-a020-3697059867be" />
 
 
-## 🛠️ Configuración del Compilador (NppExec)
+## 🛠️ Compilador
 
-La configuracion usa el siguiente codigo en el complemento (**NppExec (F6)**) para replicar el flujo de trabajo mostrado en este repositorio:
+La configuracion con los iconos en la barra es opcional y requiere tambien el siguiente codigo en el complemento (**Autohotkey + NppExec**) con la tecla de atajo (F6):
+
+   
 <img width="400" height="482" alt="Ahk_Notepad_Holux(Ux)_01" src="https://github.com/user-attachments/assets/c029af5d-3019-4ac7-b6b5-03398fa3c1e9" />
+
+  
 ```cmd
 npp_save
 npp_console 0
