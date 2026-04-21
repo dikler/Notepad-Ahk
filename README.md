@@ -1,24 +1,26 @@
 # Notepad-Ahk
-Notepad-Ahk (@UX Edition): Optimización técnica de Notepad++ para el desarrollo en AutoHotkey. Incluye flujo de depuración interna, idioma con localización (ES-MX) y homologacion con Protocolo @UX.
+Notepad-Ahk (@UX Edition): Editor con interfaz de panel dual (ventana dividida) y optimización para compilacion de codigo (AutoHotkey/AHK). 
+Incluye flujo de depuración interna, idioma con localización (ES-MX) y homologacion con Protocolo @UX.
 
 <img width="1280" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/ed1e33b8-e0a1-4087-8401-a08cf7d716a4" />
 
 # Notepad-Ahk // Holux Edition (@UX) 🌑⚡
 
-Este repositorio centraliza la configuración avanzada y las herramientas de optimización para convertir **Notepad++** en un entorno de desarrollo (IDE) de alto rendimiento para **AutoHotkey (v1/v2)**, bajo los estándares del **Protocolo @UX**.
+Este repositorio centraliza la configuración avanzada y las herramientas de optimización para convertir el editor **Notepad++** en una "mini" interfaz de desarrollo con entorno integrado (IDE). El enfoque de rendimiento especifico bajo el **Protocolo @UX**, en una aplicacion "amigable" y conocida, permite la escalabilidad de proyectos. El beneficio directo, 
+es un gran ahorro en tiempo de depuracion y una mejor experiencia al compilar codigo o rutinas (**AutoHotkey/AHK (v1/v2)**). 
 
 ## 🚀 Características Brutales
 
-* **Depuración Integrada:** Adiós a las ventanas emergentes. Captura de errores (`ErrorStdOut`) directamente en la consola de NppExec.
-* **Salto Inteligente (@UX):** Hipervínculos en consola que te llevan exactamente a la línea del error con un doble clic.
-* **Look & Feel Holux:** Interfaz optimizada para el "Lado Oscuro", reduciendo la fatiga visual y maximizando el foco.
-* **Localización ES-MX:** Traducción y terminología técnica ajustada para la comunidad de habla hispana.
+* **Depuración integrada(AHK):** La depuracion muestra los errores (`ErrorStdOut`) directamente en el panel de consola (NppExec), justo al lado de la ventana de resultados, sin ventanas emergentes.
+* **Deteccion relacional (@UX):** La deteccion de los errores es estilo relacional con "ligas" (hipervínculos) de texto seleccionables (doble clic/toque) en la consola, para ir al error especifico. 
+* **Interaccion (HOLUX):** La interaccion en la interfaz es optimizada con el "tema oscuro" nativo, reduciendo la fatiga visual y en favor de una experiencia mas fluida.
+* **Localización (ES-MX):** La localizacion tiene soporte de traducción y compatibilidad técnica en Español internacional (ES-MX/UTF8/UX).
 <img width="1200" height="955" alt="Ahk_Notepad_Holux(Ux)_Compilar_01" src="https://github.com/user-attachments/assets/2c614990-eb51-4e3d-a020-3697059867be" />
 
 
 ## 🛠️ Configuración del Compilador (NppExec)
 
-Para replicar el flujo de trabajo mostrado en este repositorio, utiliza el siguiente codigo con el complemento **NppExec (F6)**:
+La configuracion usa el siguiente codigo en el complemento (**NppExec (F6)**) para replicar el flujo de trabajo mostrado en este repositorio:
 <img width="400" height="482" alt="Ahk_Notepad_Holux(Ux)_01" src="https://github.com/user-attachments/assets/c029af5d-3019-4ac7-b6b5-03398fa3c1e9" />
 ```cmd
 npp_save
