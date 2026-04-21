@@ -26,12 +26,19 @@ El beneficio directo, es un gran ahorro en tiempo de depuracion y una mejor expe
 
 La configuracion con los iconos en la barra es opcional y requiere tambien el siguiente codigo en el complemento (**Autohotkey + NppExec**) con la tecla de atajo (F6):
 
+
+---
+**🤝 Créditos:** Version de tema oscuro optimizada y actualizada con **Protocolo Holux**.
+**Autor:** [@dikler](https://github.com/dikler)
+
+  
    
 <img width="400" height="482" alt="Ahk_Notepad_Holux(Ux)_01" src="https://github.com/user-attachments/assets/c029af5d-3019-4ac7-b6b5-03398fa3c1e9" />
 
   
+
 -----
-cmd
+```cmd
 npp_save
 npp_console 0
 echo ========================================
@@ -49,11 +56,8 @@ echo [!] ERROR DETECTADO: Revisar línea indicada.
 echo ========================================
 npp_console 1
 
-
 ---
     
 
----
-**🤝 Créditos:** Version de tema oscuro optimizada y actualizada con **Protocolo Holux**.
-**Autor:** [@dikler](https://github.com/dikler)
+
 
