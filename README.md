@@ -13,7 +13,8 @@ Este repositorio centraliza la configuración avanzada y las herramientas de opt
 * **Salto Inteligente (@UX):** Hipervínculos en consola que te llevan exactamente a la línea del error con un doble clic.
 * **Look & Feel Holux:** Interfaz optimizada para el "Lado Oscuro", reduciendo la fatiga visual y maximizando el foco.
 * **Localización ES-MX:** Traducción y terminología técnica ajustada para la comunidad de habla hispana.
-<img width="400" height="482" alt="Ahk_Notepad_Holux(Ux)_01" src="https://github.com/user-attachments/assets/4336de4b-2328-4fc6-883c-198039ff5aa9" /> 
+<img width="1200" height="955" alt="Ahk_Notepad_Holux(Ux)_Compilar_01" src="https://github.com/user-attachments/assets/2c614990-eb51-4e3d-a020-3697059867be" />
+
 
 ## 🛠️ Configuración del Compilador (NppExec)
 
