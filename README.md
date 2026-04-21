@@ -16,7 +16,7 @@ El beneficio directo, es un gran ahorro en tiempo de depuracion y una mejor expe
 ## 🚀 Características
 
 * **Depuración integrada(AHK):** La depuracion muestra los errores (`ErrorStdOut`) directamente en el panel de consola (NppExec), justo al lado de la ventana de resultados, sin ventanas emergentes.
-* **Deteccion relacional (@UX):** La deteccion de los errores es estilo relacional con "ligas" (hipervínculos) de texto seleccionables (doble clic/toque) en la consola, para ir al error especifico. 
+* **Deteccion relacional (@UX):** La deteccion de los errores es estilo relacional con "ligas" (hipervínculos) de texto seleccionables para ir al error especifico, directo (doble clic/toque) en la consola.  
 * **Interaccion (HOLUX):** La interaccion en la interfaz es optimizada con el "tema oscuro" nativo, reduciendo la fatiga visual y en favor de una experiencia mas fluida.
 * **Localización (ES-MX):** La localizacion tiene soporte de traducción y compatibilidad técnica en Español internacional (ES-MX/UTF8/UX).
 <img width="1200" height="955" alt="Ahk_Notepad_Holux(Ux)_Compilar_01" src="https://github.com/user-attachments/assets/2c614990-eb51-4e3d-a020-3697059867be" />
