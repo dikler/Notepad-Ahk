@@ -30,7 +30,8 @@ La configuracion con los iconos en la barra es opcional y requiere tambien el si
 <img width="400" height="482" alt="Ahk_Notepad_Holux(Ux)_01" src="https://github.com/user-attachments/assets/c029af5d-3019-4ac7-b6b5-03398fa3c1e9" />
 
   
-```cmd
+-----
+cmd
 npp_save
 npp_console 0
 echo ========================================
@@ -49,9 +50,10 @@ echo ========================================
 npp_console 1
 
 
-
-
+---
+    
 
 ---
 **🤝 Créditos:** Version de tema oscuro optimizada y actualizada con **Protocolo Holux**.
 **Autor:** [@dikler](https://github.com/dikler)
+
