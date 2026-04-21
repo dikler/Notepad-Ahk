@@ -1,10 +1,11 @@
 # Notepad-Ahk
-Notepad-Ahk (@UX Edition): Editor con interfaz de panel dual (ventana dividida) y optimización para compilacion de codigo (AutoHotkey/AHK). 
+Notepad-Ahk (@Holux Version): 
+Editor con interfaz de panel dual (ventana dividida) y optimización para compilacion de codigo (AutoHotkey/AHK). 
 Incluye flujo de depuración interna, idioma con localización (ES-MX) y homologacion con Protocolo @UX.
 
 <img width="1280" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/ed1e33b8-e0a1-4087-8401-a08cf7d716a4" />
 
-# Notepad-Ahk // Holux Edition (@UX) 🌑⚡
+# Notepad-Ahk // Holux Version (@UX) 🌑⚡
 
 Este repositorio centraliza la configuración avanzada y las herramientas de optimización para convertir el editor **Notepad++** en una "mini" interfaz de desarrollo con entorno integrado (IDE). El enfoque de rendimiento especifico bajo el **Protocolo @UX**, en una aplicacion "amigable" y conocida, permite la escalabilidad de proyectos. El beneficio directo, 
 es un gran ahorro en tiempo de depuracion y una mejor experiencia al compilar codigo o rutinas (**AutoHotkey/AHK (v1/v2)**). 
