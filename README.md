@@ -11,7 +11,7 @@ Incluye flujo de depuración interna, idioma con localización (ES-MX) y homolog
 Este repositorio centraliza la configuración avanzada y las herramientas de optimización para convertir el editor (**Notepad++**) en una "mini" interfaz de desarrollo con entorno integrado (IDE).     
 El enfoque de escalabilidad bajo el **Protocolo @UX**, en una aplicacion "amigable" y conocida, permite mejorar el rendimiento especifica de proyectos. 
 
-El beneficio directo, es un gran ahorro en tiempo de depuracion y una mejor experiencia general al compilar codigo o rutinas (**AutoHotkey/AHK (v1/v2)**). 
+El beneficio directo, es un gran ahorro en tiempo de depuracion y una mejor experiencia general al compilar codigo (**AutoHotkey/AHK (v1/v2)**). 
 
 ## 🚀 Características Brutales
 
