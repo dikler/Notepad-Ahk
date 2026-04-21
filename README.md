@@ -47,3 +47,10 @@ echo [!] ERROR DETECTADO: Revisar línea indicada.
 :End
 echo ========================================
 npp_console 1
+
+
+
+
+
+
+🤝 Créditos: Version de tema oscuro optimizada y actualizada con Protocolo Holux. Autor: @dikler los iconos en l
