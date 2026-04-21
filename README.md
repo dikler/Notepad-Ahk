@@ -1,5 +1,5 @@
 # Notepad-Ahk
-Notepad-Ahk (@Holux Version):     
+Notepad-Ahk (@Holux Version/ES):     
 
 Editor con interfaz de panel dual (ventana dividida) y optimización para compilacion de codigo (AutoHotkey/AHK). 
 Incluye flujo de depuración interna, idioma con localización (ES-MX) y homologacion con Protocolo @UX.
