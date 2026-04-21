@@ -8,7 +8,8 @@ Incluye flujo de depuración interna, idioma con localización (ES-MX) y homolog
 
 # Notepad-Ahk // Holux Version (@UX) 🌑⚡
 
-Este repositorio centraliza la configuración avanzada y las herramientas de optimización para convertir el editor **Notepad++** en una "mini" interfaz de desarrollo con entorno integrado (IDE). El enfoque de rendimiento especifico bajo el **Protocolo @UX**, en una aplicacion "amigable" y conocida, permite la escalabilidad de proyectos. El beneficio directo, 
+Este repositorio centraliza la configuración avanzada y las herramientas de optimización para convertir el editor (**Notepad++**) en una "mini" interfaz de desarrollo con entorno integrado (IDE).     
+El enfoque de rendimiento especifico bajo el **Protocolo @UX**, en una aplicacion "amigable" y conocida, permite la escalabilidad de proyectos. El beneficio directo, 
 es un gran ahorro en tiempo de depuracion y una mejor experiencia al compilar codigo o rutinas (**AutoHotkey/AHK (v1/v2)**). 
 
 ## 🚀 Características Brutales
