@@ -52,5 +52,6 @@ npp_console 1
 
 
 
-
-🤝 Créditos: Version de tema oscuro optimizada y actualizada con Protocolo Holux. Autor: @dikler los iconos en l
+---
+**🤝 Créditos:** Version de tema oscuro optimizada y actualizada con **Protocolo Holux**.
+**Autor:** [@dikler](https://github.com/dikler)
